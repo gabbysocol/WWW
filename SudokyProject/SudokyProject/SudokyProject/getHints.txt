@@ -1,0 +1,12 @@
+﻿To earn hints, you need to pass the mini-game "Follow a Cloud". 
+
+For its activation it is necessary to double-click on on a blank space on the screen. 
+After that from the screen everything will disappear, except a samoletik and a cloudlet, koroty are located in the left part of the screen. 
+
+Click 1 time a cloudlet. Further you will notice that it changed the location, find it again and again click 1 time it. 
+
+And so, over and over again following a cloudlet, clicking on it, самолетик will try to catch up with it. 
+At the same time, if you do not get to a cloudlet (you will click not on it, and just on the screen), you will lose. 
+
+Therefore follow it until to you the message comes that a game is ended and the hint is received. 
+For one prokhodzheniye of this mini-game 1 hint is given.
